@@ -13,6 +13,20 @@ A Python-based application that recommends colleges based on entrance exam rank,
 * Displays eligibility warnings
 * Simple command-line interface
 
+## Screenshots
+
+### EAMCET Recommendation
+![EAMCET](eamcet_test.png.png)
+
+### WBJEE Recommendation
+![WBJEE](wbjee_test.png.png)
+
+### JEE Main Recommendation
+![JEE Main](jee_main_test.png.png)
+
+### JEE Advanced Recommendation
+![JEE Advanced](jee_advanced_test.png.png)
+
 ## Technologies Used
 
 * Python 3
