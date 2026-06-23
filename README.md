@@ -4,15 +4,12 @@ A Python-based application that recommends colleges based on entrance exam rank,
 
 ## Features
 
-* Supports EAMCET
-* Supports WBJEE
-* Supports JEE Main
-* Supports JEE Advanced
-* Calculates percentage automatically
-* Provides college recommendations
-* Displays eligibility warnings
-* Simple command-line interface
-
+- College recommendations based on rank
+- Supports EAMCET, WBJEE, JEE Main, JEE Advanced
+- Calculates percentage automatically
+- Displays eligibility warnings
+- Provides branch-specific suggestions
+  
 ## Screenshots
 
 ### EAMCET Recommendation
